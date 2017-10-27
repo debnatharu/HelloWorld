@@ -4,7 +4,7 @@
 package com.sample;
 
 /**
- * @author 210542
+ * @author
  *
  */
 public class SimpleClient {
